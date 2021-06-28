@@ -1,0 +1,31 @@
+* {
+
+    margin: 1%;
+    -webkit-border-radius: 5px 5px 5px 5px;
+border-radius: 5px 5px 5px 5px;
+
+}
+
+.titulo {
+    font-style: oblique;
+    text-align: center;
+    background-color: rgba(214, 146, 21, 0.76);
+    padding: 5px;
+    
+}
+.l1{
+    background-color: burlywood;
+    text-align: center;
+    color: white;
+
+}
+.l2 {
+    background-color: beige;
+    color: teal;
+    text-align: center;
+}
+.autor {
+    text-align: center;
+   background-color: rgba(241, 226, 6, 0.445);
+    padding: 10px;
+}
